@@ -9,8 +9,9 @@ Pre-requisite:
 =====
 
 1.Python3.6 
-2.EC2 instances are all tagged.In this script (i have used 6 basic tags Name,Application,CostCenter,Product,Env and Team.
-3.You have permission to access instances,volumes and network interfaces.
+2.Boto3
+3.EC2 instances are all tagged.In this script (i have used 6 basic tags Name,Application,CostCenter,Product,Env and Team.
+4.You have permission to access instances,volumes and network interfaces.
 
 How to use:
 =====
