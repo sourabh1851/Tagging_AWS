@@ -1,6 +1,8 @@
 #Tagging_AWS
-###Script to tag network interfaces and volumes attached to instances
-###Most of the time teams keep on provisioning the instances in AWS but forgot to tag volumes and network interfaces attached to it and then its difficult to keep track of this.
+=====
+
+Script to tag network interfaces and volumes attached to instances
+Most of the time teams keep on provisioning the instances in AWS but forgot to tag volumes and network interfaces attached to it and then its difficult to keep track of this.
 
 
 Pre-requisite:
